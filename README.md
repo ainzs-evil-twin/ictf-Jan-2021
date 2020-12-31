@@ -8,7 +8,8 @@ My challenge submissions for Imaginary CTF for the month of December 2020.
 (I'll be updating the list as I keep adding challenges)
 
  | Challenge Name | Category | Difficulty
-1 | a-fine-year | Crypto | Easy
+-|----------------|----------|-----------
+ | a-fine-year | Crypto | Easy
 
 ## Flag format
 
