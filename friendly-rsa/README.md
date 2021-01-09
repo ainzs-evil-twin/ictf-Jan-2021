@@ -7,9 +7,9 @@ A hacker managed to break into Alice's computer and found a file containing Alic
 
 ## Attachments
  
-`https://github.com/ainzs-evil-twin/ictf-Jan-2021/blob/main/breaking-bad/Alice.txt`  
-`https://github.com/ainzs-evil-twin/ictf-Jan-2021/blob/main/breaking-bad/Bob.txt`  
-`https://github.com/ainzs-evil-twin/ictf-Jan-2021/blob/main/breaking-bad/message.txt`  
+`https://github.com/ainzs-evil-twin/ictf-Jan-2021/blob/main/friendly-rsa/Alice.txt`  
+`https://github.com/ainzs-evil-twin/ictf-Jan-2021/blob/main/friendly-rsa/Bob.txt`  
+`https://github.com/ainzs-evil-twin/ictf-Jan-2021/blob/main/friendly-rsa/message.txt`  
 
 ## Flag format
 
