@@ -13,6 +13,7 @@ My challenge submissions for Imaginary CTF for the month of December 2020.
 | 2 | [wertyu](../main/a-fine-year/README.md) | Misc | Easy |
 | 3 | [breaking-bad](../main/breaking-bad/README.md) | Cracking, Programming | Moderate
 | 4 | [friendly-rsa](../main/friendly-rsa/README.md) | Crypto | Difficult
+| 5 | [chunk-shuffling](../main/chunk-shuffling) | Forensics | Moderate
 | 5 | [crunch](../main/crunch/README.md) | Cracking | Moderate
 | 6 | [homemade-xor2](../main/homemade-xor2/README.md) | Crypto | Moderate
 | 8 | [pyjail0](../main/pyjail0/README.md) | pwn | Easy
