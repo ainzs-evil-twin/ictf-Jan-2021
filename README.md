@@ -16,10 +16,12 @@ My challenge submissions for Imaginary CTF for the month of December 2020.
 | 5 | [chunk-shuffling](../main/chunk-shuffling/README.md) | Forensics | Moderate
 | 6 | [revenge-of-XOR](../main/revenge-of-XOR/README.md) | Crypto, Forensics | Moderate
 | 7 | [CeWL](../main/CeWL/README.md) | Cracking | Moderate
-| 8 | [homemade-xor2](../main/homemade-xor2/README.md) | Crypto | Moderate
-| 9 | [pyjail0](../main/pyjail0/README.md) | pwn | Easy
-| 10 | [underflow](../main/underflow/README.md) | Reversing | Moderate
-| 11 | [flag-sequencing2](../main/flag-sequencing2/README.md) | Crypto/Reversing | Difficult
+| 8 | [two-time-pad](../main/two-time-pad/README.md) | Crypto | Moderate
+| 9 | [php-comparison2](../main/php-comparison2/README.md) | Web | Moderate
+| 10 | [privacy-enhanced-mail](../main/privacy-enhanced-mail/README.md) | Crypto | Easy
+| 11 | [pyjail0](../main/pyjail0/README.md) | pwn | Easy
+| 12 | [underflow](../main/underflow/README.md) | Reversing | Moderate
+| 13 | [flag-sequencing2](../main/flag-sequencing2/README.md) | Crypto/Reversing | Difficult
 
 ## Flag format
 

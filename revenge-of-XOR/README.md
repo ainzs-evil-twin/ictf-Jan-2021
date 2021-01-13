@@ -2,7 +2,7 @@
 
 ## Description
 
-You cheesed [**Xissors-Or-Rock**](https://github.com/ainzs-evil-twin/ictf-Nov-2020/tree/main/Xissors-Or-Rock)last time, so here is a modified version.  
+You cheesed [**Xissors-Or-Rock**](https://github.com/ainzs-evil-twin/ictf-Nov-2020/tree/main/Xissors-Or-Rock) last time, so here is a modified version.  
 I hope you solve it the proper way.
 
 ## Attachments
