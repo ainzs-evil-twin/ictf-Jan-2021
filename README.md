@@ -16,7 +16,7 @@ Some challenges for Imaginary CTF - January 2021
 | 5 | [chunk-shuffling](../main/chunk-shuffling/README.md) | Forensics | Moderate
 | 6 | [revenge-of-XOR](../main/revenge-of-XOR/README.md) | Crypto, Forensics | Moderate
 | 7 | [CeWL](../main/CeWL/README.md) | Cracking | Moderate
-| 8 | [two-time-pad](../main/two-time-pad/README.md) | Crypto | Moderate
+| 8 | [two-time-pad](../main/two-time-pad/README.md) | Crypto, Reversing | Moderate
 | 9 | [php-comparison2](../main/php-comparison2/README.md) | Web | Moderate
 | 10 | [privacy-enhanced-mail](../main/privacy-enhanced-mail/README.md) | Crypto | Easy
 | 11 | [pyjail0](../main/pyjail0/README.md) | pwn | Easy
