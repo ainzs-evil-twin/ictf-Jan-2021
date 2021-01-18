@@ -18,7 +18,7 @@ Some challenges for Imaginary CTF - January 2021
 | 7 | [CeWL](../main/CeWL/README.md) | Cracking | Moderate
 | 8 | [two-time-pad](../main/two-time-pad/README.md) | Crypto, Reversing | Moderate
 | 9 | [php-comparison2](../main/php-comparison2/README.md) | Web | Moderate
-| 10 | [privacy-enhanced-mail](../main/privacy-enhanced-mail/README.md) | Crypto | Easy
+| 10 | [php-comparison3](../main/php-comparison3/README.md) | Web | Moderate
 | 11 | [pyjail0](../main/pyjail0/README.md) | pwn | Easy
 | 12 | [underflow](../main/underflow/README.md) | Reversing | Moderate
 | 13 | [flag-sequencing2](../main/flag-sequencing2/README.md) | Crypto/Reversing | Difficult
