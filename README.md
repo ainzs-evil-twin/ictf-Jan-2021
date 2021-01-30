@@ -21,7 +21,7 @@ Some challenges for Imaginary CTF - January 2021
 | 10 | [php-comparison3](../main/php-comparison3/README.md) | Web | Moderate
 | 11 | [php-sqli](../main/php-sqli/README.md) | Web | Moderate
 | 12 | [overflow](../main/overflow/README.md) | pwn | Moderate
-| 13 | [pyjail0](../main/pyjail0/README.md) | pwn | Easy
+| 13 | [pyjail0](../main/pyjail0/README.md) | jail-escape | Easy
 | 14 | [flag-sequencing2](../main/flag-sequencing2/README.md) | Crypto/Reversing | Difficult
 
 ## Flag format
